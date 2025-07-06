@@ -1,4 +1,4 @@
-## A `MERN Stack` Chat Application created using `Socket.io` and `Chakra UI`
+## A `MERN Stack` Chat Application created using `Socket.io`
 
 ### Features Added till now
 
@@ -33,9 +33,3 @@
 ![Rahul's Chats](Assets/1.png)
 
 ![App GIF](Assets/Recording%202023-08-20%20121907.gif)
-
-## Author's Social Links 🖥️
-
-- [Twitter](https://twitter.com/rahu__24)
-- [LinkedIn](https://www.linkedin.com/in/rahu24/)
-- [Instagram](https://www.instagram.com/rahu__24/)
